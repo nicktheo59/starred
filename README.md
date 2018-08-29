@@ -7,55 +7,144 @@
 
   - 1 [Urgent](#urgent)
   - 2 [Critical](#critical)
-  - 3
-  - 4
+  - 3 [Important](#important)
+  - 4 [Retain](#retain)
   - 5 [Aspirational](#aspirational)
-  - 6
-  - 7 
-
-  - [Assembly](#assembly)
-  - [C](#c)
-  - [C#](#c#)
-  - [C++](#c++)
-  - [CMake](#cmake)
-  - [CSS](#css)
-  - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
-  - [Eagle](#eagle)
-  - [Erlang](#erlang)
-  - [Go](#go)
-  - [HCL](#hcl)
-  - [HTML](#html)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Jupyter Notebook](#jupyter notebook)
-  - [KiCad](#kicad)
-  - [Logos](#logos)
-  - [Lua](#lua)
-  - [Makefile](#makefile)
-  - [Mathematica](#mathematica)
-  - [Others](#others)
-  - [PHP](#php)
-  - [PowerShell](#powershell)
-  - [Puppet](#puppet)
-  - [Python](#python)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [Scala](#scala)
-  - [Shell](#shell)
-  - [Swift](#swift)
-  - [TeX](#tex)
-  - [TypeScript](#typescript)
-  - [Vim script](#vim script)
+  - 6 [Keep](#keep)
+  - 7 [Junk](#junk)
+  
+  
   
 
+## Urgent
 
+Combine into projects:
+ 
+ Remote locksmith
+ CCTV monitoring over twitter ID face check
+ Mesh networking device.... 
+ Face count
+
+
+## Critical
+
+
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
+- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
+
+- [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+- [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
+- [node-red](https://github.com/node-red/node-red) - A visual tool for wiring the Internet of Things
+- [science-based-games-list](https://github.com/stared/science-based-games-list) - Science-based games - a collaborative list
+- [nlib](https://github.com/mdipierro/nlib) - The book "Annotated Algorithms in Python" and the nlib.py library
+
+
+
+## Important
+
+
+
+- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python.
+
+
+- [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
+
+- [aws-blog-framework](https://github.com/proffalken/aws-blog-framework) - A set of "best practices" to launch a web site using Terraform, Ansible and AWS
+
+- [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform
+
+- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats) - Deep learning with cats (^._.^)
+
+- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+
+
+- [TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
+
+- [face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
+- [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
+- [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
+
+
+- [pi-tracking-telescope](https://github.com/tobykurien/pi-tracking-telescope) - An optical tracking telescope using OpenCV, Raspberry Pi, Arduino, and 3D printed partsn) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
+- [pyvit](https://github.com/linklayer/pyvit) - pyvit: Python Vehicle Interface Toolkit
+- [FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
+
+
+- [gpkit](https://github.com/hoburg/gpkit) - Python package for defining and manipulating geometric programming models.
+
+
+
+
+## Retain
+
+
+
+
+
+
+
+## Aspirational
+
+
+- [gr-gsm](https://github.com/ptrkrysik/gr-gsm) - Gnuradio blocks and tools for receiving GSM transmissions
+
+
+- [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
+
+
+
+## Keep
+
+
+
+- [hamster-gtd](https://github.com/galfarragem/hamster-gtd) - Ultra-simple system to organize your documents and workflow.
+
+- [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
+
+
+
+
+
+- [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Wordlists sorted by probability originally created for password generation and testing
+
+- [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+
+
+
+- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
+
+
+- [awesome-serverless](https://github.com/JustServerless/awesome-serverless) - Curated list of resources related to serverless architectures and the Serverless Framework
+
+- [notes](https://github.com/ChALkeR/notes) - Some public notes
+
+- [WhatsAPI](https://github.com/venomous0x/WhatsAPI) - Interface to WhatsApp Messenger
+
+
+- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+
+
+
+- [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of interesting, subtle, and tricky Python snippets.
+- [grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+
+- [cloud-functions-python](https://github.com/MartinSahlen/cloud-functions-python) - Get some python in google cloud functions
+
+
+
+
+
+
+
+## Junk
 
 - [SIP-Pi](https://github.com/fabianhu/SIP-Pi) - SIP answering machine running on Raspberry Pi
 
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 - [iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
-
 
 ## C# # 
 
@@ -66,14 +155,14 @@
 ## C++ 
 
 - [stanford_self_driving_car_code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
+
 - [DIY-Thermocam](https://github.com/maxritter/DIY-Thermocam) - The DIY-Thermocam is a do-it-yourself infrared camera, based on the FLIR Lepton long-wave infrared sensor and the popular Teensy 3.6.
-- [gr-gsm](https://github.com/ptrkrysik/gr-gsm) - Gnuradio blocks and tools for receiving GSM transmissions
+
+
 - [beringei](https://github.com/facebookincubator/beringei) - Beringei is a high performance, in-memory storage engine for time series data.
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [libzoneminder-plugin-openalpr](https://github.com/manupap1/libzoneminder-plugin-openalpr) - libzoneminder-plugin-openalpr is a free, open source Licence Plate Recognition plugin for the ZoneMinder CCTV sofware (https://github.com/ZoneMinder/ZoneMinder). It is based on openalpr library (https://github.com/openalpr/openalpr) for the recognition algorithm and plugin development initiated by nextime (https://github.com/nextime/zum/tree/master/scripts/ZoneMinder).
 
-
-- [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
 
 
 - [rx5808-pro-diversity](https://github.com/sheaivey/rx5808-pro-diversity) - DIY project to create your own 5.8ghz FPV diversity basestation - based off the rx5808 receiver module. Project includes basic Arduino Nano implementation to advanced custom PCB board and introduction to digital switches 4066 chip.
@@ -140,11 +229,12 @@
 - [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for run ansible playbooks
 - [agorakit](https://github.com/philippejadin/agorakit) - Groupware for citizens
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
+
 - [addict](https://github.com/dthree/addict) - Get a full Active Directory REST API in 30 seconds
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 
 - [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+
 - [front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end 
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [maps](https://github.com/learn-anything/maps) - 🗺 Interactive Mind Maps Curated by Community
@@ -153,10 +243,6 @@
 
 - [Wappalyzer](https://github.com/AliasIO/Wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 - [OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
-
-- [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)
-
-- [node-red](https://github.com/node-red/node-red) - A visual tool for wiring the Internet of Things
 
 - [lambci](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 
@@ -174,6 +260,7 @@
 ## Jupyter Notebook 
 
 - [SNNs](https://github.com/bioinf-jku/SNNs) - Tutorials and implementations for "Self-normalizing networks"
+
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 - [loads_clustering](https://github.com/gianlucahmd/loads_clustering) - Data Science project to cluster loads coming from http://en.openei.org/datasets/files/961/pub/
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
@@ -202,34 +289,26 @@
 
 - [learn-regex](https://github.com/zeeshanu/learn-regex) - Learn regex the easy 
 
-- [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+
+
+- [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)
 
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
-- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
-- [science-based-games-list](https://github.com/stared/science-based-games-list) - Science-based games - a collaborative list
-- [notes](https://github.com/ChALkeR/notes) - Some public notes
 
 - [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
 
 - [computer-science](https://github.com/open-source-society/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
 
-- [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Wordlists sorted by probability originally created for password generation and testing
 
-- [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
-
-- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
-
-- [awesome-serverless](https://github.com/JustServerless/awesome-serverless) - Curated list of resources related to serverless architectures and the Serverless Framework
 
 - [awesome-rancher](https://github.com/jmreicha/awesome-rancher) - Curated list of Rancher resources
 
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 
-- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
+
 
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
@@ -245,9 +324,13 @@
 
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 
-- [hamster-gtd](https://github.com/galfarragem/hamster-gtd) - Ultra-simple system to organize your documents and workflow.
 
-- [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
+
+
+
+
+
+
 
 - [life-hacks](https://github.com/karthik/life-hacks) - Some life hacks documented
 
@@ -274,14 +357,14 @@
 
 - [Android-SDK](https://github.com/Estimote/Android-SDK) - Estimote SDK for Android
 
-- [WhatsAPI](https://github.com/venomous0x/WhatsAPI) - Interface to WhatsApp Messenger
+
 
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 
 ## PHP 
 
 - [monica](https://github.com/monicahq/monica) - Personal Relationship Manager - a new kind of CRM to organize interactions with your friends and family.
-- [grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner
 - [morgue](https://github.com/etsy/morgue) - post mortem tracker
 
@@ -291,35 +374,30 @@
 - [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - a BDD Style terraform validation/compliancy check
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of interesting, subtle, and tricky Python snippets.
+
+
+
+
 - [tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections) - Collection of generative models in Tensorflow
+
+
+
 
 - [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML
 
 
 - [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - 🐧 A list of awesome applications, software, tools and other materials for Linux distros.
 
-- [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
-
-- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python.
 
 
-- [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 
-- [aws-blog-framework](https://github.com/proffalken/aws-blog-framework) - A set of "best practices" to launch a web site using Terraform, Ansible and AWS
 
-- [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform
-
-- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats) - Deep learning with cats (^._.^)
-
-- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
-
-- [gpkit](https://github.com/hoburg/gpkit) - Python package for defining and manipulating geometric programming models.
 
 - [spoilerwall](https://github.com/infobyte/spoilerwall) - Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!
 
-- [TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
+
+
+
 - [dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage
 - [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Application Framework for Python
 - [uchroma](https://github.com/cyanogen/uchroma) - An advanced driver for Razer Chroma hardware in Linux
@@ -332,15 +410,9 @@
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 
 
-- [face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
 
 
-- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
-- [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
-- [nlib](https://github.com/mdipierro/nlib) - The book "Annotated Algorithms in Python" and the nlib.py library
 
-- [cloud-functions-python](https://github.com/MartinSahlen/cloud-functions-python) - Get some python in google cloud functions
 - [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [cesium](https://github.com/cesium-ml/cesium) - Machine Learning Time-Series Platform
@@ -350,12 +422,17 @@
 - [have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
 - [urh](https://github.com/jopohl/urh) - Universal Radio Hacker: investigate wireless protocols like a boss
 - [platformio-core](https://github.com/platformio/platformio-core) - An open source ecosystem for IoT development :alien: Cross-platform IDE and unified debugger. Remote unit testing and firmware updates.
-- [FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
+
+
+
+
+
 - [PRET](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
 - [tensorflow-on-raspberry-pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow for Raspberry Pi
 - [kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [brozzler](https://github.com/internetarchive/brozzler) - brozzler - distributed browser-based web crawler
-- [pi-tracking-telescope](https://github.com/tobykurien/pi-tracking-telescope) - An optical tracking telescope using OpenCV, Raspberry Pi, Arduino, and 3D printed partsn) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
+
+
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
 
 - [iGAN](https://github.com/junyanz/iGAN) - Interactive Image Generation via Generative Adversarial Networks
@@ -374,7 +451,7 @@
 - [dnsteal](https://github.com/m57/dnsteal) - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 
-- [pyvit](https://github.com/linklayer/pyvit) - pyvit: Python Vehicle Interface Toolkit
+
 
 - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Automated victim-customized phishing attacks against Wi-Fi clients
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
